@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-search-dart-desktop",
+  "capabilityKey": "liberusoftware/module-crm-search",
+  "presentation": "dart-desktop",
+  "package": "module_crm_search_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/crm/nextjs/crm-search.md",
+  "presentationPlan": "projects/crm/features/crm-search.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
